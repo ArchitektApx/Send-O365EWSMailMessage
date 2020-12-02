@@ -1,10 +1,11 @@
 # Send-O365EWSMailMessage
 ## Replacement for the Send-MailMessage Cmdlet in Powershell
 
-Since Send-MailMessage is considered to be obsolte, 
-this function provides a, pretty much, "drop-in" replacement using the Microsoft Exchange Web Services Managed API.
+Since Send-MailMessage is considered to be obsolete, 
+this function provides a (pretty much) "drop-in" replacement using the Microsoft Exchange Web Services Managed API.
 
 https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/send-mailmessage
+
 https://www.microsoft.com/en-us/download/details.aspx?id=42951
 
 Obviously the Microsoft Exchange Web Service Managed API has to be installed and you have to use Office365/Exchange.
